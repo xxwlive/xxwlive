@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="right"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xxwlive&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-<div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=xxwlive&theme=xcode"/> </div>
+<img src="https://github-readme-stats.vercel.app/api?username=xxwlive&theme=buefy&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="xxwlive GitHub stats" height="185px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxwlive&layout=compact&langs_count=8&theme=buefy&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px" />
